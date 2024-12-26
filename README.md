@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! I'm Flexwop!  
 
 Welcome to my GitHub profile! 🥳 Here's a quick snapshot of who I am and what I do:
 
