@@ -31,9 +31,9 @@ Here’s what I’m working with these days:
 
 ## 🎯 Let's Connect
 - 🌐 [Portfolio](https://yourwebsite.com)  
-- 🐦 [Twitter](https://twitter.com/yourusername)  
+- 🐦 [Twitter](https://x.com/flexwop58614)  
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 📧 [Email](mailto:yourname@example.com)  
+- 📧 [Email](mailto:varexondc@gmail.com)  
 
 ---
 
