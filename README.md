@@ -1,6 +1,4 @@
-# 👋 Hi there! I'm Flexwop!  
-
-Welcome to my GitHub profile! 🥳 Here's a quick snapshot of who I am and what I do:
+# 👋 Hi there! I'm Flexwop!
 
 ---
 
@@ -11,6 +9,8 @@ Welcome to my GitHub profile! 🥳 Here's a quick snapshot of who I am and what 
 
 ## 🚀 About Me
 - Im a passionate GeoGuessr player. 🌍
+- Im still in School and only doing coding in my freetime.
+- I hate math. (As a programmer)
 
 ---
 
@@ -22,8 +22,7 @@ Here’s what I’m working with these days:
 
 ## 🎯 Let's Connect
 - 🌐 [Portfolio](https://yourwebsite.com)  
-- 🐦 [Twitter](https://x.com/flexwop58614)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+- 🐦 [Twitter](https://x.com/flexwop58614)
 - 📧 [Email](mailto:varexondc@gmail.com)  
 
 ---
