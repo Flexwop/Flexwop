@@ -9,22 +9,18 @@
 
 ## 🚀 About Me
 - Im a passionate GeoGuessr player. 🌍
-- Im still in School and only doing coding in my freetime.
+- Im still in School and only code in my freetime.
 - I hate math. (As a programmer)
 
 ---
 
 ## 🔧 Tech Stack & Tools
-Here’s what I’m working with these days:
+These are the languages I use (don't expect im master them all):
 ![Your Tech Stack](https://skillicons.dev/icons?i=javascript,typescript,python,html,css,react,nodejs,mongodb,git,github&theme=light)
 
 ---
 
-## 🎯 Let's Connect
+## 🎯 These are my socials
 - 🌐 [Portfolio](https://yourwebsite.com)  
 - 🐦 [Twitter](https://x.com/flexwop58614)
 - 📧 [Email](mailto:varexondc@gmail.com)  
-
----
-
-✨ **Happy coding, and thanks for stopping by!** ✨
