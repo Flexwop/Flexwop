@@ -16,6 +16,6 @@ These are the languages I use (don't expect im master them all):
 ---
 
 ## 🎯 These are my socials
-- 🌐 [Portfolio]([https://yourwebsite.com](https://flexwop-portfolio.netlify.app))  
+- 🌐 [Portfolio](https://flexwop-portfolio.netlify.app)  
 - 🐦 [Twitter](https://x.com/flexwop58614)
 - 📧 [Email](mailto:varexondc@gmail.com)  
