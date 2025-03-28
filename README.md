@@ -2,11 +2,6 @@
 
 ---
 
-## 🏆 Current Projects im working on
-- Im currently working on an web application which will help GeoGuessr player learn the game, connect with other players and have fun.
-
----
-
 ## 🚀 About Me
 - Im a passionate GeoGuessr player. 🌍
 - Im still in School and only code in my freetime.
