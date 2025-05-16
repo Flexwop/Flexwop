@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flexwop</h1>
-<h3 align="center">A developer from Germany</h3>
+<h3 align="center">I am a developer from Germany</h3>
 
-- 🔭 I’m currently working on [Marckkuesten](https://marckkuesten.de)
+- 🔭 I’m currently working on my own Portfolio Website. Soon to come!
 
 - 📫 How to reach me **varexondc@gmail.com**
 
