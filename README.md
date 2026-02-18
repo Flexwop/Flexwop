@@ -21,8 +21,7 @@
         <br />
       <p>
         <p></p>
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josthedude&theme=catppuccin-frappe&hide_border=true&border_radius=10&card_width=435&card_height=175&background=302C33" alt="GitHub Streak" /></a>
-      </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=flexwop&theme=dark&hide_border=true" alt="GitHub Streak" /></a>      </p>
     </div>
   </p>
 </p>
