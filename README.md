@@ -12,10 +12,9 @@
         <br />
         18
         <p>
-          - software engineer -
+          IT Specialist for Application Development
         <br />
-        <a href="https://discord.com/invite/rD3cvvJ2dC/">discord</a> ~ 
-        <a href="https://flexwop.studio/">website</a> ~
+        <a href="https://flexwop.studio/">website</a> -
         <a href="mailto:flexwopdev@gmail.com">email</a>
         <br />
         <br />
