@@ -9,8 +9,6 @@
   <p float="left">
     <div align="center">
       <p>
-        <br />
-        18
         <p>
           IT Specialist for Application Development
         <br />
