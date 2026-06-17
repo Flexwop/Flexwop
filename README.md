@@ -9,8 +9,6 @@
   <p float="left">
     <div align="center">
       <p>
-        <p>
-          IT Specialist for Application Development
         <br />
         <a href="https://flexwop.studio/">website</a> -
         <a href="mailto:flexwopdev@gmail.com">email</a>
